@@ -23,8 +23,8 @@ email: john@stigmergist.com
 description: >- # this means to ignore newlines until "baseurl:"
   Technology Counselling at its best
 baseurl: "" # the subpath of your site, e.g. /blog
-domin: techtalktype.github.io
-url: https://techtalktype.github.io # the base hostname & protocol for your site, e.g. http://example.com
+domin: stigmergist.github.io
+url: https://stigmergist.github.io/techtalktype # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  stigmergist
 
 # Build settings
